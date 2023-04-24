@@ -20,7 +20,6 @@
 
 
 # 製作者
-ハシビロ工業  
-[HP](https://sites.google.com/view/hsbl-industrial-hp/home)
-[ブログ](https://hsbl-industrial-zakki.blogspot.com/)
-[本記事](https://hsbl-industrial-zakki.blogspot.com/2023/04/1.html)
+[HP](https://sites.google.com/view/hsbl-industrial-hp/home)  
+[ブログ](https://hsbl-industrial-zakki.blogspot.com/)  
+[本記事](https://hsbl-industrial-zakki.blogspot.com/2023/04/1.html)  
