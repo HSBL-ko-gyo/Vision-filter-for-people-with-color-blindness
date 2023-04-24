@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Blindness Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="https://example.com">GitHub</a></li>
+        <li><a href="https://example.org">ハシビロ工業HP</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+  <div class="container">
+    <h1>色覚異常での見え方比較WEBアプリ</h1>
+    <p>画像ファイル（JPEG, PNG）を以下のボックスにドラッグアンドドロップするか、ファイルを選択してください。</p>
+    <label id="file-label">
+      ファイルを選択
+      <input type="file" id="file-input" accept="image/jpeg, image/png" hidden>
+    </label>
+    <div id="dropzone" class="dropzone"></div>
+    <div class="row">
+      <div class="image-container">
+        <h2>オリジナル</h2>
+        <img id="original-image" src="#" alt="Dropped image">
+      </div>
+      <div class="image-container">
+        <h2>1色型色覚</h2>
+        <img id="type1-image" src="#" alt="Type 1 colorblind image">
+      </div>
+    </div>
+    <div class="row">
+      <div class="image-container">
+        <h2>2色型色覚</h2>
+        <img id="type2-image" src="#" alt="Type 2 colorblind image">
+      </div>
+      <div class="image-container">
+        <h2>異常3色型色覚</h2>
+        <img id="type3-image" src="#" alt="Type 3 colorblind image">
+      </div>
+    </div>
+  </div>
+  <script src="scripts.js"></script>
+</body>
+</html>
