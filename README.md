@@ -1,5 +1,5 @@
 # 色覚異常での見え方比較WEBアプリ
-<img src="https://user-images.githubusercontent.com/128065816/234005476-de1d1c1d-c057-4e60-9dc7-debf5b6637d7.png" alt="image"  height="320">
+<img src="https://user-images.githubusercontent.com/128065816/234014393-938d20bc-e152-46b1-80f8-7da554898e7a.png" alt="image"  height="320">
 
 [WEBアプリページへ](https://hsbl-ko-gyo.github.io/Vision-filter-for-people-with-color-blindness/)
 
