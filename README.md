@@ -1,8 +1,9 @@
 # 色覚異常での見え方比較WEBアプリ
+<img src="https://user-images.githubusercontent.com/128065816/234005476-de1d1c1d-c057-4e60-9dc7-debf5b6637d7.png" alt="image"  height="120">
 
 [WEBアプリページへ](https://hsbl-ko-gyo.github.io/Vision-filter-for-people-with-color-blindness/)
 
-このリポジトリには、Webページで画像の色覚異常での見え方を実行するシンプルなツールが含まれています。  
+このリポジトリには、Webページで画像の色覚異常での見え方確認できるwebアプリです。
 ユーザーは、画像をドラッグ&ドロップまたはファイル選択でアップロードし、  
 正常な色覚、1色型色覚、2色型色覚、異常3色型色覚のシミュレーションを表示できます。  
 ユニバーサルデザインを考慮した制作物を作成する際にご使用ください。  
@@ -21,4 +22,4 @@
 ハシビロ工業  
 [HP](https://sites.google.com/view/hsbl-industrial-hp/home)
 [ブログ](https://hsbl-industrial-zakki.blogspot.com/)
-[本記事]()
+[本記事](https://hsbl-industrial-zakki.blogspot.com/2023/04/1.html)
